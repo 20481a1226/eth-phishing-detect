@@ -412,7 +412,7 @@
 0.0.0.0 ripiocredlt.network
 0.0.0.0 myetlherwa11et.com
 0.0.0.0 dentacoin.in
-0.0.0.0 rdrtg.com
+0.0.0.0 rmxg.com
 0.0.0.0 myetherwallet.com.rdrgh.com
 0.0.0.0 rdrgh.com
 0.0.0.0 ripiocreditnetwork.co

@@ -13695,7 +13695,7 @@ module.exports={
     "ripiocredlt.network",
     "myetlherwa11et.com",
     "dentacoin.in",
-    "rdrtg.com",
+    "rmxg.com",
     "myetherwallet.com.rdrgh.com",
     "rdrgh.com",
     "ripiocreditnetwork.co",
